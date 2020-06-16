@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aem-guides-wknd.ui.apps" />
+        <module name="aem-guides-wknd.ui.content" />
+        <module name="aem-guides-wknd.it.tests" />
+        <module name="aem-guides-wknd.core" />
+        <module name="aem-guides-wknd.repository-structure" />
+        <module name="aem-guides-wknd.it.launcher" />
+        <module name="aem-guides-wknd.all" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aem-guides-wknd" target="1.8" />
+      <module name="aem-guides-wknd.all" target="1.8" />
+      <module name="aem-guides-wknd.core" target="1.8" />
+      <module name="aem-guides-wknd.it.launcher" target="1.8" />
+      <module name="aem-guides-wknd.it.tests" target="1.8" />
+      <module name="aem-guides-wknd.repository-structure" target="1.8" />
+      <module name="aem-guides-wknd.ui.apps" target="1.8" />
+      <module name="aem-guides-wknd.ui.content" target="1.8" />
+      <module name="aem-guides-wknd.ui.frontend" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

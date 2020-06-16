@@ -1,0 +1,7 @@
+/home/rohit/tutorial/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/models/HelloWorldModelTest.java
+/home/rohit/tutorial/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/servlets/SimpleServletTest.java
+/home/rohit/tutorial/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/filters/LoggingFilterTest.java
+/home/rohit/tutorial/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/listeners/SimpleResourceListenerTest.java
+/home/rohit/tutorial/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/models/impl/ImageListImplTest.java
+/home/rohit/tutorial/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/schedulers/SimpleScheduledTaskTest.java
+/home/rohit/tutorial/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/models/impl/BylineImplTest.java
